@@ -1,0 +1,6 @@
+@ApiFoundation.NET_HostAddress = http://localhost:5191
+
+GET {{ApiFoundation.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
