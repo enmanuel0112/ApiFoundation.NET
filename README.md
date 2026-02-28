@@ -1,2 +1,19 @@
 # ApiFoundation.NET
-ApiFoundation.NET is a foundational ASP.NET Core Web API project built with PostgreSQL, Entity Framework Core, JWT authentication, versioning, and clean architecture principles. Designed as a production-ready backend template with pagination, filtering, and standardized API responses.
+
+ApiFoundation.NET is a production-ready ASP.NET Core Web API foundation built with PostgreSQL and Entity Framework Core.
+
+## Features
+
+- RESTful architecture
+- API versioning (/api/v1)
+- Swagger documentation
+- JWT authentication (planned)
+- Pagination, filtering and sorting (planned)
+- Standardized API responses
+
+## Tech Stack
+
+- ASP.NET Core (.NET 8)
+- PostgreSQL
+- Entity Framework Core
+- Swagger (Swashbuckle)
